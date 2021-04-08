@@ -1,4 +1,3 @@
-## Please improve my login program for example some codes for registering. Then I can create a .exe file.
 
 import sys
 import sqlite3
